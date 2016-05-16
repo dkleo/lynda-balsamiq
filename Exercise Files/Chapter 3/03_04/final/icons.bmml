@@ -1,0 +1,10 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="677" measuredH="171" mockupW="70" mockupH="48">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="607" y="123" w="-1" h="-1" measuredW="70" measuredH="48" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightTriangleIcon%7Clarge</icon>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

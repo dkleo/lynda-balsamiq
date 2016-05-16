@@ -1,0 +1,9 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="480" measuredH="275" mockupW="102" mockupH="43">
+  <controls>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Component" x="378" y="232" w="102" h="43" measuredW="102" measuredH="43" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#mini sharing widget</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
